@@ -3,7 +3,8 @@
 red_creds.json
 red_creds.txt
 archive
+01_PRAW_Scraping.ipynb
 02_EDA_Cleaning.ipynb
 03_Preprocessing_Visualizations.ipynb
 04_Modeling.ipynb
-data/archive
+data/archive/
